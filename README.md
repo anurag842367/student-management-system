@@ -11,11 +11,17 @@ A simple Student Management System built using Laravel and MySQL.
 
 ## Technologies Used
 
-- PHP
-- Laravel
-- MySQL
-- HTML
-- Blade Templates
+PHP — Backend programming
+
+Laravel — PHP framework
+
+MySQL — Database
+
+Blade — Frontend templating
+
+HTML & CSS — Page structure and styling
+
+Git & GitHub — Version control and project hosting
 
 
 ## Project Setup
