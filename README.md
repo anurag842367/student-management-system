@@ -16,7 +16,7 @@ A simple Student Management System built using Laravel and MySQL.
 - MySQL
 - HTML
 - Blade Templates
-- Bootstrap (if used)
+
 
 ## Project Setup
 
